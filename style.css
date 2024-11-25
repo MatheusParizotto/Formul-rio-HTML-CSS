@@ -7,15 +7,15 @@
 } 
 
 body {
-    background-color: #F4F0EA;
-    color: #798252;
+    background-color:#1a1a2e;
+    color: #e0e0e0;
     font-family: "Cabin", sans-serif;
     font-weight: 400;
 }
 
 header {
     padding: 2rem;
-    background-color: #331f19;
+    background-color: #0d0d0d;
     text-align: center;
 }
 
@@ -33,31 +33,32 @@ section {
 }
 
 h2 {
-    color: #331f19;
+    color: #888888;
     font-size: 1.2rem;
 }
 
 input[type="radio"], input[type="checkbox"] {
-    accent-color: #ccd595;
+    accent-color: #00ffff88;
 }
 
 input[type="text"], [type="password"], [type="date"], [type="email"] {
     width: 100%;
     padding: 0.6rem;
-    border: 2px solid #ccd595;
+    border: 2px solid  #ff007f;
     outline: none;
     border-radius: 5px;
     background-color: transparent;
+    color: #e0e0e0;
 }
 
 input::placeholder {
-    color: #cbbba7;
+    color: #e0e0e0;
 }
 
 select {
     cursor: pointer;
-    background-color: #ccd595;
-    color: #331f19;
+    background-color: #ff007f;
+    color: #e0e0e0;
     border-radius: 5px;
     border: none;
     outline: none;
@@ -74,25 +75,25 @@ table {
 }
 
 th {
-    background-color: #ccd595;
-    color: #331f19;
+    background-color: #00ffff88;
+    color: #e0e0e0;
     padding: 1rem;
 }
 
 td {
-    color: #331f19;
+    color: #e0e0e0;
     padding: 1rem;
     text-align: center;
 }
 
 details {
-    background-color: #ccd595;
+    background-color: #00ffff88;
     border-radius: 5px;
     padding: 1rem;
 }
 
 summary {
-    color: #331f19;
+    color: #e0e0e0;
     margin: 0.5rem;
     cursor: pointer;
 }
@@ -106,13 +107,13 @@ ol li {
 }
 
 fieldset {
-    border: 2px solid #ccd595;
+    border: 2px solid #ff007f;
     border-radius: 5px;
     padding: 1rem;
 }
 
 legend {
-    color: #331f19;
+    color: #e0e0e0;
     padding: 0 0.5rem;
 }
 
@@ -120,20 +121,21 @@ textarea {
     background-color: transparent;
     outline: none;
     border-radius: 5px;
-    border: 2px solid #ccd595;
+    border: 2px solid #ff007f;
+    color: #e0e0e0;
 }
 
 button {
-    background-color: #ccd595;
+    background-color: #ff007f;
     border: none;
     padding: 0.5rem;
-    color: #331f19;
+    color: #e0e0e0;
     border-radius: 5px;
     cursor: pointer;
 }
 
 footer {
-    background-color: #331f19;
+    background-color: #0d0d0d;
     padding: 2rem;
     text-align: center;
 }
@@ -144,5 +146,5 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #ccd595;
+    color: #ff007f;
 }

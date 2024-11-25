@@ -8,7 +8,7 @@
 
 header {
     padding: 2rem;
-    background-color: #331f19;
+    background-color: #0d0d0d;
     text-align: center;
 }
 
@@ -26,14 +26,14 @@ section {
 }
 
 body {
-    background-color: #F4F0EA;
-    color: #798252;
+    background-color: #1a1a2e;
+    color: #e0e0e0;
     font-family: "Cabin", sans-serif;
     font-weight: 400;
 }
 
 h2 {
-    color: #331f19;
+    color: #888888;
     font-size: 1.5rem;
 }
 
