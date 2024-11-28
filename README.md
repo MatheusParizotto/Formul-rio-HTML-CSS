@@ -1,5 +1,5 @@
 # O que diabos é isso: 
-- Um simples projeto feito em HTML e CSS;
+- Um formulário feito em HTML e CSS;
 - O objetivo é simplesmente aprender um pouco mais sobre essas tecnologias;
 - Futuramente uma versão funcional com JavaScript estará disponível 😀👍.
 
