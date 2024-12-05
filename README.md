@@ -1,7 +1,6 @@
 # O que diabos é isso: 
 - Um formulário feito em HTML e CSS;
 - O objetivo é simplesmente aprender um pouco mais sobre essas tecnologias;
-- Futuramente uma versão funcional com JavaScript estará disponível 😀👍.
 
 
 # Como testar: 
